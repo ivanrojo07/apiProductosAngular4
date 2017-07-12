@@ -21,7 +21,7 @@
             "ext-mcrypt": "Required for HTTP cookie encryption",
             "phpseclib/mcrypt_compat": "Polyfil for mcrypt extension"
         },
-        "time": "2017-01-07T12:21:41+00:00",
+        "time": "2017-01-07 12:21:41",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
